@@ -115,6 +115,5 @@ fabric.properties
 .idea/**/azureSettings.xml
 
 assets/css/test-css.css
-/alpine-example.html
-alpine-example.html
-alpine-example.html
+/alpine-box-example.html
+alpine-box-example.html
