@@ -1,3 +1,48 @@
-.hidden{
+.hidden {
     display: none;
+}
+
+.main-center-95, .main-center-85, .main-center-75, .main-center-65, .main-center-55, .main-center-45, .main-center-35.main-center-25.main-center-15 {
+    margin: 25px auto;
+    background-color: white;
+    min-height: 500px;
+    border-radius: 15px;
+    padding: 25px;
+    box-shadow: 0 8px 16px rgb(0 0 0 / 0.2);
+}
+
+.main-center-95 {
+    width: 95%;
+}
+
+.main-center-85 {
+    width: 85%;
+}
+
+.main-center-75 {
+    width: 75%;
+}
+
+.main-center-65 {
+    width: 65%;
+}
+
+.main-center-55 {
+    width: 55%;
+}
+
+.main-center-45 {
+    width: 45%;
+}
+
+.main-center-35 {
+    width: 35%;
+}
+
+.main-center-25 {
+    width: 25%;
+}
+
+.main-center-15 {
+    width: 15%;
 }
